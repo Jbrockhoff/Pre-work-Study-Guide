@@ -1,11 +1,8 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
-## A study guide for students completing prework for KU full-stack coding bootcamp
+## Description
 
-I wanted to immerse myself in practical application of skills to help me begin to use the course material. I built it in order to have a basis of comparison among peers in class and to understand how to build a webpage. It gives me a place to take and store notes in an easily-accessible way, and I learned everything! I got expereince in coding, which I have never done before. 
-
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. 
 
 ## Installation
 
@@ -23,7 +20,7 @@ N/A
 
 MIT License
 
-Copyright (c) [2023] [Jennie Sue Brockhoff]
+Copyright (c) [year] [fullname]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
